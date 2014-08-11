@@ -1,4 +1,4 @@
-%META:TOPICINFO{author="ProjectContributor" date="1231502400" format="1.1" version="$Rev: 1841 $"}%
+%META:TOPICINFO{author="ProjectContributor" date="1407719347" format="1.1" version="1"}%
 %META:TOPICPARENT{name="Macros"}%
 <a name="VarREMOTE_IP_ADDRESS" />
 ---+++ REMOTE_IP_ADDRESS -- IP address of incoming HTTP request
